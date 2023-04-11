@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post Agi" },
+    { "id": 2, "title": "Post Bela" },
+    { "id": 3, "title": "Post Kata" }
+  ],
+  "comments": [
+    { "id": 1, "body": "no comment", "postId": 1 },
+    { "id": 2, "body": "comment", "postId": 2 }
+  ],
+  "profile": {
+    "name": "Agnes"
+  }
+}
