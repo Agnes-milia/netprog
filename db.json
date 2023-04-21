@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post Ági" },
-    { "id": 2, "title": "Post Béla" },
-    { "id": 3, "title": "Post Kata" }
+    { "id": 1, "title": "Valami kedves dolog" },
+    { "id": 2, "title": "Cica" },
+    { "id": 3, "title": "Kutya" }
   ],
   "comments": [
     { "id": 1, "body": "no comment", "postId": 1 },
