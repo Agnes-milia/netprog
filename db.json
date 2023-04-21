@@ -3,6 +3,7 @@
     { "id": 1, "title": "Valami kedves dolog" },
     { "id": 2, "title": "Cica" },
     { "id": 3, "title": "Kutya" }
+    { "id": 4, "title": "Viziló" }
   ],
   "comments": [
     { "id": 1, "body": "no comment", "postId": 1 },
